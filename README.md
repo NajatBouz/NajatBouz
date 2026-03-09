@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻 Aspiring **Junior Full-Stack Developer** | DevOps & Cloud Engineer in Ausbildung<br><br>Passionate about building modern web applications, automation and cloud technologies.<br>Currently learning Full-Stack Development, DevOps practices and cloud infrastructure.<br><br>☁️ Cloud Business Expert (IHK) – certification planned for 2026<br>🚀 Always learning, building projects and improving my skills.<br>
+👩‍💻 Aspiring **Junior Full-Stack Developer** | DevOps & Cloud Engineer<br><br>Passionate about building modern web applications, automation and cloud technologies.<br>Currently learning Full-Stack Development, DevOps practices and cloud infrastructure.<br><br>☁️ Cloud Business Expert (IHK) – certification 2026<br>🚀 Always learning, building projects and improving my skills.<br>
 
 
 ## 🌐 Socials:
