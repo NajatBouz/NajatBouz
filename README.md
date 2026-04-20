@@ -1,7 +1,12 @@
-# 💫 About Me:
-👩‍💻 Aspiring **Junior Full-Stack Developer**| **DevOps & Cloud Engineer** |Passionate about building modern web applications, automation, and cloud technologies.
-Currently learning Full-Stack Development, DevOps practices, and cloud infrastructure.<br>Currently learning Full-Stack Development, DevOps practices and cloud infrastructure.<br><br>☁️ Cloud Business Expert (IHK) – certification 2026<br>🚀 Motivated to learn, apply new skills, and gain practical experience in cloud and DevOps.<br>
+*IT Career Changer | Cloud & Systems Enthusiast*
 
+Completed training as Cloud Business Expert (IHK) and currently transitioning into IT.
+
+Passionate about IT systems, cloud technologies, and structured problem-solving.
+Currently building skills in Linux, AWS, Git, and system fundamentals through hands-on projects.
+
+☁️ Cloud Business Expert (IHK) – completed
+🚀 Motivated to learn, apply new skills, and gain practical IT experience in systems, cloud, and support environments.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/[https://www.linkedin.com/in/najat-bouzerouata-747637316/) 
