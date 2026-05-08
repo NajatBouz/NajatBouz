@@ -1,12 +1,4 @@
-*IT Career Changer | Cloud & Systems Enthusiast*
-
-Completed training as Cloud Business Expert (IHK) and currently transitioning into IT.
-
-Passionate about IT systems, cloud technologies, and structured problem-solving.
-Currently building skills in Linux, AWS, Git, and system fundamentals through hands-on projects.
-
-☁️ Cloud Business Expert (IHK) – completed
-🚀 Motivated to learn, apply new skills, and gain practical IT experience in systems, cloud, and support environments.
+*IT*
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/najat-bouzerouata-747637316/)
